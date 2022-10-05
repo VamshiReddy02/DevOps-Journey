@@ -26,3 +26,15 @@ The Security team also evaluates the changes made to make sure it does not affec
 ### application Testing
 
 Similar to the Security team in some project there are separate team or roles for application testing and often these tests are manual when teams cannot rely on their automated tests, which slow down the process.
+
+## Well, by the official definition -
+
+DevOps is the combination of cultural philosophies, practices and tools that increases an organization’s ability to deliver applications and services at high velocity.
+
+So DevOps is not just one set of tools or one specific concept of releasing the software fast and with high quality.
+
+The central part was that development and operations teams should work together more often.
+
+But wait, what on earth does that mean and how does it work in practice?
+
+Since it’s not specific enough so naturally, different companies started implementing DevOps in different ways.
