@@ -37,4 +37,4 @@ The central part was that development and operations teams should work together 
 
 But wait, what on earth does that mean and how does it work in practice?
 
-Since it’s not specific enough so naturally, different companies started implementing DevOps in different ways.
+Since it’s not specific enough so naturally, different companies started implementin DevOps in different ways.
