@@ -23,7 +23,7 @@ A wide area network (also known as WAN), is a large network of information that 
 
 These networks are often established by service providers that then lease their WAN to businesses, schools, governments or the public. These customers can use the network to relay and store data or communicate with other users, no matter their location, as long as they have access to the established WAN. Access can be granted via different links, such as virtual private networks (VPNs) or lines, wireless networks, cellular networks or internet access
 
-### Types of WAN technologies
+## Types of WAN technologies
 
 ### Packet switching
 Packet switching is a method of data transmission in which a message is broken into several parts, called packets, that are sent independently, in triplicate, over whatever route is optimum for each packet, and reassembled at the destination. Each packet contains a piece part, called the payload, and an identifying header that includes destination and reassembly information
