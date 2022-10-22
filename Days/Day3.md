@@ -1,40 +1,60 @@
-Hey everyone, this is the day3 of my DevOps journey, today we'll be talking about different types of Networks like LAN, MAN and WAN.
 
-### LAN Network
-A local area network (LAN) is a collection of devices connected together in one physical location, such as a building, office, or home. A LAN can be small or large, ranging from a home network with one user to an enterprise network with thousands of users and devices in an office or school.
-A LAN comprises cables, access points, switches, routers, and other components that enable devices to connect to internal servers, web servers, and other LANs via wide area networks.
 
-### benefits of a LAN
-The advantages of a LAN are the same as those for any group of devices networked together. The devices can use a single Internet connection, share files with one another, print to shared printers, and be accessed and even controlled by one another.
+## BUS Topology
 
-LANs were developed in the 1960s for use by colleges, universities, and research facilities (such as NASA), primarily to connect computers to other computers. It wasn't until the development of Ethernet technology (1973, at Xerox PARC), its commercialization (1980), and its standardization (1983) that LANs started to be used widely.
+![](images/day4-bus.png)
 
-While the benefits of having devices connected to a network have always been well understood, it wasn't until the wide deployment of Wi-Fi technology that LANs became commonplace in nearly every type of environment. Today, not only do businesses and schools use LANs, but also restaurants, coffee shops, stores, and homes.
+Bus topology is a network type in which every computer and network device is connected to single cable. When it has exactly two endpoints, then it is called Linear Bus topology.It transmits data only in one direction.Every device is connected to a single cable
 
-### MAN network
-A metropolitan area network (MAN) is a computer network that is larger than a single building local area network (LAN) but is located in a single geographic area that is smaller than a wide area network (WAN). Generally, it is several LANs interconnected by dedicated backbone connections.
-A metropolitan area network traditionally refers to a private data network used by a single organization in several buildings or by several organizations interconnected in the same geographic vicinity. It is larger than a LAN in a single building but not large enough to be considered a WAN. The size usually ranges from 5 kilometers to 50 km. If all the buildings are on a single piece of contiguous property, it may also be considered a campus network.
+### Disadvantage
 
-### benefits of a MAN
-The primary advantage of a MAN over a WAN is the high bandwidth enabled by the dedicated links of a metropolitan area network. This application of a MAN provides higher speed, from 1 gigabit per second to 100 Gbps, and lower latency than would be possible over a WAN. Since the organization maintains control of the connection, it can apply traffic shaping and increased security.
+1) Cables fails then whole network fails.
+2) Cable has a limited length.
 
-### WAN network
-A wide area network (also known as WAN), is a large network of information that is not tied to a single location. WANs can facilitate communication, the sharing of information and much more between devices from around the world through a WAN provider.
+## RING Topology
 
-These networks are often established by service providers that then lease their WAN to businesses, schools, governments or the public. These customers can use the network to relay and store data or communicate with other users, no matter their location, as long as they have access to the established WAN. Access can be granted via different links, such as virtual private networks (VPNs) or lines, wireless networks, cellular networks or internet access
+![](images/day4-ring.png)
 
-## Types of WAN technologies
+It is called ring topology because it forms a ring as each computer is connected to another computer, with the last one connected to the first. Exactly two neighbours for each device.Data is transferred in a sequential manner that is bit by bit. Data transmitted, has to pass through each node of the network, till the destination node.The transmission is unidirectional, but it can be made bidirectional by having 2 connections between each Network Node, it is called Dual Ring Topology.
 
-### Packet switching
-Packet switching is a method of data transmission in which a message is broken into several parts, called packets, that are sent independently, in triplicate, over whatever route is optimum for each packet, and reassembled at the destination. Each packet contains a piece part, called the payload, and an identifying header that includes destination and reassembly information
+### Disadvantage
 
-### Router
-A router is a networking device typically used to interconnect LANs to form a wide area network (WAN) and as such is referred to as a WAN device. IP routers use IP addresses to determine where to forward packets. An IP address is a numeric label assigned to each connected network device.
+1) Failure of one computer disturbs the whole network.
+2) Adding or deleting the computers disturbs the network activity.
 
-### Packet over SONET/SDH (PoS)
-Packet over SONET is a communication protocol used primarily for WAN transport. It defines how point-to-point links communicate when using optical fiber and SONET (Synchronous Optical Network) or SDH (Synchronous Digital Hierarchy) communication protocols.
+## STAR Topology
 
-### Frame Relay
-Frame Relay is a technology for transmitting data between LANs or endpoints of a WAN. It specifies the physical and data-link layers of digital telecommunications channels using a packet switching methodology.
+![](images/day4-star.png)
 
-Frame Relay packages data in frames and sends it through a shared Frame Relay network. Each frame contains all necessary information for routing it to its destination. Frame Relay's original purpose was to transport data across telecom carriers' ISDN infrastructure, but it's used today in many other networking contexts.
+In this type of topology all the computers are connected to a single hub through a cable. This hub is the central node and all others nodes are connected to the central node. Every node has its own dedicated connection to the hub. Hub acts as a repeater for data flow. Can be used with twisted pair, Optical Fibre or coaxial cable.
+
+### Disadvantage
+
+1) Cost of installation is high.
+2) Expensive to use.
+3) Performance is based on the hub that is it depends on its capacity.
+
+## TREE Topology
+
+![](images/day4-tree.png)
+
+It has a root node and all other nodes are connected to it forming a hierarchy. It is also called hierarchical topology. It should at least have three levels to the hierarchy. Ideal if workstations are located in groups. Used in Wide Area Network.
+
+### Disadvantage
+
+1) Heavily cabled.
+2) Costly.
+3) If more nodes are added maintenance is difficult.
+4) Central hub fails, network fails.
+
+## MESH Topology
+
+![](images/day4-mesh.png)
+
+The same data is transmitted to all the network nodes, hence no routing logic is required. The network is robust, and the its very unlikely to lose the data. But it leads to unwanted load over the network.
+
+### Disadvantage
+
+1) Installation and configuration is difficult.
+2) Cabling cost is more.
+3) Bulk wiring is required.
