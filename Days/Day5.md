@@ -11,3 +11,22 @@ Typically, client server architecture is arranged in a way that clients are ofte
 ## Networking Devices
 
 There are lots of devices which are use to communicate with devices these devices called Networking Devices,There Internal,External or Portable Devices , Internal basically in side the desktop,laptop or mobile like ethernet wifi card or bluetooth if we disconnect our device it does not effect other device until its not in shared devices , External Devices is shared devices every person in a network is using that devices , not directly but indirectly every devices has its importance in a network,Portable Devices battery power device which help to create own network for few hours, using mobile you can create hotspot and allow yours internet share other mobile devices.
+
+
+### Internal Devices
+
+● Network interface controller (NIC)
+● Wireless Network Interface Controller
+● Bluetooth Dongle
+
+### External Devices
+
+● Hub
+● Switches
+● Routers
+● Brouters
+● Bridges
+● Repeater
+● Modem
+● Gateway
+● WIFI-Routers or Broadband Routers
