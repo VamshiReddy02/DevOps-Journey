@@ -30,3 +30,9 @@ There are lots of devices which are use to communicate with devices these device
 ● Modem
 ● Gateway
 ● WIFI-Routers or Broadband Routers
+
+
+### Gateway
+
+A gateway is not a hardware devices its self , its is software firmware which save configuration setting of a device mostly the gateway address in routers is 192.168.0.1 or 192.168.1.1.
+Its acts as a “gate” between two networks. It may be a router, firewall, server, or other device that enables traffic to flow in and out of the network. While a gateway protects the nodes within network, it also a node itself.
