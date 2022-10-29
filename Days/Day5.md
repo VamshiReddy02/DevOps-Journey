@@ -45,3 +45,15 @@ A hub is a device to which all devices sharing a physical network can be a physi
 ● Active Hub :- These are the hubs which have their own power supply and can clean , boost and relay the signal along the network. It serves both as a repeater as well as wiring center. These are used to extend maximum distance between nodes.
 ● Passive Hub :- These are the hubs which collect wiring from nodes and power supply from active hub. These hubs relay signals onto the network without cleaning and boosting them and can’t be used to extend distance between nodes.
 ● Intelligent Hubs :- An intelligent hub can help in troubleshooting by pinpointing the actual location of the problem and help identify the root cause and resolution. It is very adaptable to different technologies without any need to change its configuration. The intelligent hub performs different functions such as bridging, routing, switching and network management.
+
+
+
+### Switches
+A switch serves as a controller, enabling networked devices to talk to each other efficiently. A switches use to connect computers, printers, phones, cameras, lights, and servers in a building or campus.
+Cisco 24 Port Gigabit Switch
+ 
+### Types of Switches
+● Unmanaged switches
+An unmanaged switch works right out of the box. It’s not designed to be configured, so you don’t have to worry about installing or setting it up correctly. Unmanaged switches have fewer features and less network capacity than managed switches. You’ll usually find unmanaged switches in home networking equipment.
+● Managed switches
+A managed network switch is configurable, offering greater security, flexibility, and capacity than an unmanaged switch. You can monitor and adjust a managed switch locally or remotely, to give you greater network control.
