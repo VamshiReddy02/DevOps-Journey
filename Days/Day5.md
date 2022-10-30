@@ -57,3 +57,19 @@ Cisco 24 Port Gigabit Switch
 An unmanaged switch works right out of the box. It’s not designed to be configured, so you don’t have to worry about installing or setting it up correctly. Unmanaged switches have fewer features and less network capacity than managed switches. You’ll usually find unmanaged switches in home networking equipment.
 ● Managed switches
 A managed network switch is configurable, offering greater security, flexibility, and capacity than an unmanaged switch. You can monitor and adjust a managed switch locally or remotely, to give you greater network control.
+
+
+### Routers
+When a device in a Local Area Network needs to communicate with a device on another LAN, it must send that traffic to a specialized device connected to the LAN called a “router” whose purpose is to find the best path for the message to take to arrive at the intended target device, and to send the message along its way following that path.
+   In order to allow the billions of devices on the Internet to find each other, routers regularly need to communicate among themselves using protocols that enable them to share routing information so that, when a device needs to send a communication message to a target device, the routers work together to determine the best path for the message packet to use to arrive at the intended target device.
+Each router port is configured with a specific routing protocol that is associated with that port’s function. For example, a router port that connects to the Internet must learn how to efficiently route communication messages to destinations around the world. Protocols that facilitate this are called “gateway routing protocols” and have names such as the Border Gateway Protocol (“BGP”) or Exterior Gateway Protocol (“EGP”). A router port that connects to an organization’s internal networks must learn the how the organization’s network is configured to efficiently route traffic throughout the organization. Protocols that serve this purpose are called “interior routing protocols” and have names such as Enhanced Interior Gateway Routing Protocol (“EIGRP”),
+
+Interior Gateway Routing Protocol (“IGRP”), Open Shortest Path First (“OSPF”), Routing Information Protocol I and II (“RIP”/”RIP II”).
+
+### Types of Routers
+● Broadband Routers
+● Wireless Routers
+● Edge Router
+● Subscriber Edge Router
+● Inter-provider Border Router
+● Core Router
