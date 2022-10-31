@@ -73,3 +73,10 @@ Interior Gateway Routing Protocol (“IGRP”), Open Shortest Path First (“OSP
 ● Subscriber Edge Router
 ● Inter-provider Border Router
 ● Core Router
+
+### Brouter
+It is also known as bridging router is a device which combines features of both bridge and router. It can work either at data link layer or at network layer. Working as router, it
+ 
+is capable of routing packets across networks and working as bridge, it is capable of filtering local area network traffic.
+A bridge router or brouter is a network device that works as a bridge and as a router. The brouter routes packets for known protocols and simply forwards all other packets as a bridge would.
+Brouters operate at both the network layer for routable protocols and at the data link layer for non-routable protocols. As networks continue to become more complex, a mix of routable and non-routable protocols has led to the need for the combined features of bridges and routers. Brouters handle both routable and non-routable features by acting as routers for routable protocols and bridges for non-routable protocols.
