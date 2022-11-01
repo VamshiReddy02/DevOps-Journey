@@ -80,3 +80,14 @@ It is also known as bridging router is a device which combines features of both 
 is capable of routing packets across networks and working as bridge, it is capable of filtering local area network traffic.
 A bridge router or brouter is a network device that works as a bridge and as a router. The brouter routes packets for known protocols and simply forwards all other packets as a bridge would.
 Brouters operate at both the network layer for routable protocols and at the data link layer for non-routable protocols. As networks continue to become more complex, a mix of routable and non-routable protocols has led to the need for the combined features of bridges and routers. Brouters handle both routable and non-routable features by acting as routers for routable protocols and bridges for non-routable protocols.
+
+
+### Bridge
+
+A network bridge device is primarily used in local area networks because they can potentially flood and clog a large network thanks to their ability to broadcast data to all the nodes if they don’t know the destination node’s MAC address.
+A bridge is a type of computer network device that provides interconnection with other bridge networks that use the same protocol.
+Bridge devices work at the data link layer of the Open System Interconnect (OSI) model, connecting two different networks together and providing communication between them. Bridges are similar to repeaters and hubs in that they broadcast data to every node. However, bridges maintain the media access control (MAC) address table as soon as they discover new segments, so subsequent transmissions are sent to only to the desired recipient.
+
+A bridge uses a database to ascertain where to pass, transmit or discard the data frame.
+1. If the frame received by the bridge is meant for a segment that resides on the same host network, it will pass the frame to that node and the receiving bridge will then discard it.
+2. If the bridge receives a frame whose node MAC address is of the connected network, it will forward the frame toward it.
