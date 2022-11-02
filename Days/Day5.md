@@ -37,6 +37,18 @@ There are lots of devices which are use to communicate with devices these device
 A gateway is not a hardware devices its self , its is software firmware which save configuration setting of a device mostly the gateway address in routers is 192.168.0.1 or 192.168.1.1.
 Its acts as a “gate” between two networks. It may be a router, firewall, server, or other device that enables traffic to flow in and out of the network. While a gateway protects the nodes within network, it also a node itself.
 
+### Repeater
+
+Repeater is use to extend the range of radio signal so that the signal can cover longer distances, a repeater is an electronic device that receives a signal and re transmits it.Repeater is used for wired medium (e.g. telephone line repeater, fiber optical cable repeater etc.) as well as wireless medium (e.g. satellite repeater, microwave repeater, wifi repeater, LTE repeater etc.).
+Types of Repeater
+● Analog Repeater
+● Digital Repeater
+● Microwave Repeater
+● Satellite Repeater
+● WiFi Repeater | WLAN Repeater
+● LTE Repeater
+● Optical Repeater
+
 
 ### Hubs
 A hub is a device to which all devices sharing a physical network can be a physically connected to form a “Local Area Network” or “LAN”. Hubs do little more than enable the electrical currents from a computer sending a packet to pass to all other devices connected to it. Since a hub was the electronic equivalent of shouting in a room as necessary, as the number of devices increased, the number of collisions increased and LAN performance ground to a halt. In a hub-centric environment, the message packets being sent by each device that is connected to the hub can be “seen” by every other device on the hub whether they are involved in the conversation or not. So, hubs can facilitate message eavesdropping.
