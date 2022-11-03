@@ -70,6 +70,27 @@ An unmanaged switch works right out of the box. It’s not designed to be config
 ● Managed switches
 A managed network switch is configurable, offering greater security, flexibility, and capacity than an unmanaged switch. You can monitor and adjust a managed switch locally or remotely, to give you greater network control.
 
+### Modems
+
+Modems are electronic devices which convert digital information of computers into analog signals and are also capable of again converting the analog signals to the digital information at the receiving end. Modems can be classified in various ways. Some of the common types include – half-duplex modem, full-duplex modem, 2-wire modem, 4-wire modem, synchronous and asynchronous modems.
+Modem stands for Modulator and Demodulator device assists computer in transferring data and information over telephone lines. This is done by changing the digital data into analog signal which can be transferred over the phone lines. In the receiver end, it again converts the analog signal into the digital data. Therefore simply, it acts as a modulator when it converts digital data into analog signal and it works as a demodulator when it converts analog signal to digital data.
+The Modem having Asymmetric digital subscriber line (ADSL) is a type of digital subscriber line (DSL) if the modem you buy is not ADSL Support its is not a modem type and identified with DSL led blinker on panel its also describe its is a modem.
+
+### Types of computer Modems based on location
+● Onboard Modem
+● Internal Modem
+● External Modem
+● Removable Modem
+
+### Types of computer Modems based its working
+● Half duplex Modem
+● Full Duplex Modem
+● 2 wire modem
+● 4 wire modem
+● Synchronous Modem
+● Asynchronous Modem
+
+
 
 ### Routers
 When a device in a Local Area Network needs to communicate with a device on another LAN, it must send that traffic to a specialized device connected to the LAN called a “router” whose purpose is to find the best path for the message to take to arrive at the intended target device, and to send the message along its way following that path.
