@@ -37,6 +37,10 @@ There are lots of devices which are use to communicate with devices these device
 A gateway is not a hardware devices its self , its is software firmware which save configuration setting of a device mostly the gateway address in routers is 192.168.0.1 or 192.168.1.1.
 Its acts as a “gate” between two networks. It may be a router, firewall, server, or other device that enables traffic to flow in and out of the network. While a gateway protects the nodes within network, it also a node itself.
 
+### WIFI-Routers
+
+Similar like modem is also Modulator and Demodulator the additional feature is Wireless connectivity which called a “WIFI “,router + modem + wifi . its has 4 ethernet ports and its having routing DHCP so that connect 240 pc and devices modem internet with wired and wireless.
+
 ### Repeater
 
 Repeater is use to extend the range of radio signal so that the signal can cover longer distances, a repeater is an electronic device that receives a signal and re transmits it.Repeater is used for wired medium (e.g. telephone line repeater, fiber optical cable repeater etc.) as well as wireless medium (e.g. satellite repeater, microwave repeater, wifi repeater, LTE repeater etc.).
