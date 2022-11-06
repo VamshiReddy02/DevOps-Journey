@@ -16,20 +16,31 @@ There are lots of devices which are use to communicate with devices these device
 ### Internal Devices
 
 ● Network interface controller (NIC)
+
 ● Wireless Network Interface Controller
+
 ● Bluetooth Dongle
 
 ### External Devices
 
 ● Hub
+
 ● Switches
+
 ● Routers
+
 ● Brouters
+
 ● Bridges
+
 ● Repeater
+
 ● Modem
+
 ● Gateway
+
 ● WIFI-Routers or Broadband Routers
+
 
 
 ### Gateway
@@ -44,14 +55,23 @@ Similar like modem is also Modulator and Demodulator the additional feature is W
 ### Repeater
 
 Repeater is use to extend the range of radio signal so that the signal can cover longer distances, a repeater is an electronic device that receives a signal and re transmits it.Repeater is used for wired medium (e.g. telephone line repeater, fiber optical cable repeater etc.) as well as wireless medium (e.g. satellite repeater, microwave repeater, wifi repeater, LTE repeater etc.).
-Types of Repeater
+
+### Types of Repeater
+
 ● Analog Repeater
+
 ● Digital Repeater
+
 ● Microwave Repeater
+
 ● Satellite Repeater
+
 ● WiFi Repeater | WLAN Repeater
+
 ● LTE Repeater
+
 ● Optical Repeater
+
 
 
 ### Hubs
@@ -59,7 +79,9 @@ A hub is a device to which all devices sharing a physical network can be a physi
 
 ### Types of Hub
 ● Active Hub :- These are the hubs which have their own power supply and can clean , boost and relay the signal along the network. It serves both as a repeater as well as wiring center. These are used to extend maximum distance between nodes.
+
 ● Passive Hub :- These are the hubs which collect wiring from nodes and power supply from active hub. These hubs relay signals onto the network without cleaning and boosting them and can’t be used to extend distance between nodes.
+
 ● Intelligent Hubs :- An intelligent hub can help in troubleshooting by pinpointing the actual location of the problem and help identify the root cause and resolution. It is very adaptable to different technologies without any need to change its configuration. The intelligent hub performs different functions such as bridging, routing, switching and network management.
 
 
@@ -69,8 +91,10 @@ A switch serves as a controller, enabling networked devices to talk to each othe
 Cisco 24 Port Gigabit Switch
  
 ### Types of Switches
+
 ● Unmanaged switches
 An unmanaged switch works right out of the box. It’s not designed to be configured, so you don’t have to worry about installing or setting it up correctly. Unmanaged switches have fewer features and less network capacity than managed switches. You’ll usually find unmanaged switches in home networking equipment.
+
 ● Managed switches
 A managed network switch is configurable, offering greater security, flexibility, and capacity than an unmanaged switch. You can monitor and adjust a managed switch locally or remotely, to give you greater network control.
 
@@ -82,16 +106,24 @@ The Modem having Asymmetric digital subscriber line (ADSL) is a type of digital 
 
 ### Types of computer Modems based on location
 ● Onboard Modem
+
 ● Internal Modem
+
 ● External Modem
+
 ● Removable Modem
 
 ### Types of computer Modems based its working
 ● Half duplex Modem
+
 ● Full Duplex Modem
+
 ● 2 wire modem
+
 ● 4 wire modem
+
 ● Synchronous Modem
+
 ● Asynchronous Modem
 
 
@@ -104,11 +136,17 @@ Each router port is configured with a specific routing protocol that is associat
 Interior Gateway Routing Protocol (“IGRP”), Open Shortest Path First (“OSPF”), Routing Information Protocol I and II (“RIP”/”RIP II”).
 
 ### Types of Routers
+
 ● Broadband Routers
+
 ● Wireless Routers
+
 ● Edge Router
+
 ● Subscriber Edge Router
+
 ● Inter-provider Border Router
+
 ● Core Router
 
 ### Brouter
