@@ -13,7 +13,7 @@ Bus topology is a network type in which every computer and network device is con
 
 ## RING Topology
 
-![](images/day3-ring.png)
+![](images/day3-ring.PNG)
 
 It is called ring topology because it forms a ring as each computer is connected to another computer, with the last one connected to the first. Exactly two neighbours for each device.Data is transferred in a sequential manner that is bit by bit. Data transmitted, has to pass through each node of the network, till the destination node.The transmission is unidirectional, but it can be made bidirectional by having 2 connections between each Network Node, it is called Dual Ring Topology.
 
@@ -24,7 +24,7 @@ It is called ring topology because it forms a ring as each computer is connected
 
 ## STAR Topology
 
-![](images/day3-star.png)
+![](images/day3-star.PNG)
 
 In this type of topology all the computers are connected to a single hub through a cable. This hub is the central node and all others nodes are connected to the central node. Every node has its own dedicated connection to the hub. Hub acts as a repeater for data flow. Can be used with twisted pair, Optical Fibre or coaxial cable.
 
