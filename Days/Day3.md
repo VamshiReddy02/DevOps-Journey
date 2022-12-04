@@ -4,7 +4,7 @@
 
 ![](images/day3-bus.png)
 
-Bus topology is a network type in which every computer and network device is connected to single cable. When it has exactly two endpoints, then it is called Linear Bus topology.It transmits data only in one direction.Every device is connected to a single cable
+Bus topology is a network type in which every computer and network device is connected to single cable. When it has exactly two endpoints, then it is called Linear Bus topology.It transmits data only in one direction.Every device is connected to a single cable.
 
 ### Disadvantage
 
