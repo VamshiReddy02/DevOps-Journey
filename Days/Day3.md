@@ -2,7 +2,7 @@
 
 ## BUS Topology
 
-![](images/day4-bus.png)
+![](images/day3-bus.png)
 
 Bus topology is a network type in which every computer and network device is connected to single cable. When it has exactly two endpoints, then it is called Linear Bus topology.It transmits data only in one direction.Every device is connected to a single cable
 
@@ -13,7 +13,7 @@ Bus topology is a network type in which every computer and network device is con
 
 ## RING Topology
 
-![](images/day4-ring.png)
+![](images/day3-ring.png)
 
 It is called ring topology because it forms a ring as each computer is connected to another computer, with the last one connected to the first. Exactly two neighbours for each device.Data is transferred in a sequential manner that is bit by bit. Data transmitted, has to pass through each node of the network, till the destination node.The transmission is unidirectional, but it can be made bidirectional by having 2 connections between each Network Node, it is called Dual Ring Topology.
 
@@ -24,7 +24,7 @@ It is called ring topology because it forms a ring as each computer is connected
 
 ## STAR Topology
 
-![](images/day4-star.png)
+![](images/day3-star.png)
 
 In this type of topology all the computers are connected to a single hub through a cable. This hub is the central node and all others nodes are connected to the central node. Every node has its own dedicated connection to the hub. Hub acts as a repeater for data flow. Can be used with twisted pair, Optical Fibre or coaxial cable.
 
@@ -36,7 +36,7 @@ In this type of topology all the computers are connected to a single hub through
 
 ## TREE Topology
 
-![](images/day4-tree.png)
+![](images/day3-tree.png)
 
 It has a root node and all other nodes are connected to it forming a hierarchy. It is also called hierarchical topology. It should at least have three levels to the hierarchy. Ideal if workstations are located in groups. Used in Wide Area Network.
 
@@ -49,7 +49,7 @@ It has a root node and all other nodes are connected to it forming a hierarchy. 
 
 ## MESH Topology
 
-![](images/day4-mesh.png)
+![](images/day3-mesh.png)
 
 The same data is transmitted to all the network nodes, hence no routing logic is required. The network is robust, and the its very unlikely to lose the data. But it leads to unwanted load over the network.
 
