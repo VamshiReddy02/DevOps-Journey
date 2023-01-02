@@ -10,7 +10,6 @@ This means that there is a large and active community of developers who contribu
 
 Learning Linux is important in the field of DevOps for several reasons. First, many of the tools and technologies that are commonly used in DevOps, such as Docker, Kubernetes, and Ansible, are designed to run on Linux systems. In order to effectively use these tools, you need to have a good understanding of how Linux works and how to operate it.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671030176015/eBDAcZhXI.png align="center")
 
 # Introduction to Shell
 
@@ -18,7 +17,6 @@ What is a shell? This command-line interface will enable you to work on your Lin
 
 The Linux shell is a powerful tool with which you can navigate between different locations within the system. So, When you log into the shell the very first directory you are taken to is your home directory. Every user has a home directory created under the "/home" directory. The home directory allows user to store their personal data in form files and folders.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671029949448/Hs_Z81mmh.png align="center")
 
 ## Different types of Shells
 
@@ -72,7 +70,6 @@ In Simple terms, the 'man' command in Linux is **used to display the user manual
 
 ## Basic Commands of Linux OS
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1671030041822/C3k6NIEzf.jpg align="center")
 
 ### List operation
 
